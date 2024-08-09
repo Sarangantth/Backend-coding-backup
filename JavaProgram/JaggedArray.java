@@ -1,6 +1,6 @@
 package JavaProgram;// import java.util.Arrays;
 
-class demo{
+class JaggedArray{
     public static void main(String a[])
     {
         int num[][] = new int[3][];      //jagged array
