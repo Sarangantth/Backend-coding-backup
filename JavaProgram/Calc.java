@@ -57,5 +57,6 @@ public class Calc {
         System.out.println("Result: " + result);
         result = adv.power(num1,num2);
         System.out.println("Result Power: " + result);
+        scanner.close();
     }
     }

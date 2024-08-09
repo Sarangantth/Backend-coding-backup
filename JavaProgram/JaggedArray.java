@@ -1,4 +1,4 @@
-package JavaProgram;// import java.util.Arrays;
+package JavaProgram;
 
 class JaggedArray{
     public static void main(String a[])

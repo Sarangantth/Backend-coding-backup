@@ -1,3 +1,4 @@
+package JavaProgram;
 
 import java.util.Scanner;
 
@@ -8,6 +9,7 @@ class Pro {
         System.out.println("what is your name?");
         String name = sc.next();
         System.out.println("hello " + name + ", have a good day");
+        sc.close();
     }
 }
 
